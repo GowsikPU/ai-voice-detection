@@ -1,9 +1,9 @@
---extera-index-url https://download.pytorch.org/whl/cpu
+--extra-index-url https://download.pytorch.org/whl/cpu
 fastapi
 uvicorn
 requests
 torch==2.2.2+cpu
 torchaudio==2.2.2+cpu
-transfomers
+transformers
 numpy
 soundfile
